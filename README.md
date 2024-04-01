@@ -5,3 +5,6 @@
 As website states: 'Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like.
 People use them as interview prep, company training, university coursework, practice problems, a speed contest, or to challenge each other.'
 
+### What you will see here is my solutions to those programming puzzles.
+There are not many of them in this repository yet. First of all, I started solving those puzzles recently. Plus they are very addictive, so I try to limit my time solving them.
+But if you wanna try yourself, here is link -> *https://adventofcode.com/*
